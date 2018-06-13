@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "app",
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "noImplicitReturns": true,
+    "target": "es2015"
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "src/**/*.test.ts"]
+}

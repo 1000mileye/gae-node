@@ -1,10 +1,6 @@
 {
   "compilerOptions": {
     "module": "commonjs",
-    "outDir": "app",
-    "rootDir": "src",
-    "moduleResolution": "node",
-    "baseUrl": ".",
     "noImplicitReturns": true,
     "target": "es2015"
   },

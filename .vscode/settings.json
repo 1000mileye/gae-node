@@ -1,4 +1,3 @@
 {
-  "prettier.trailingComma": "es5",
   "typescript.tsdk": "node_modules/typescript/lib"
 }

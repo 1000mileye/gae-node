@@ -3,3 +3,4 @@ webpack.config.js
 app/*.js
 app/package.json
 app/yarn.lock
+yarn-error.log
